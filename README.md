@@ -3,9 +3,9 @@
 Hate Speech Detection and Sentiment Analysis in Tamil Language.
 
 ## Datasets Used
-1. HASOC - task1, task2 & code-mixed
+1. HASOC - Task1, Task2, HL & Tanglish
 2. EACL 2021
-3. Dravidian
+3. Dravidian 2021
 
 ## Models used for Embedding
 1. IndicBert
