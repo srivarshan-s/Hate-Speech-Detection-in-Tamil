@@ -6,3 +6,8 @@ Hate Speech Detection and Sentiment Analysis in Tamil Language.
 1. HASOC
 2. EACL
 3. Dravidian
+
+## Models used for Embedding
+1. IndicBert
+2. Bert Base Uncased (MaskedLM)
+3. XLM-RoBERTa (Base)
