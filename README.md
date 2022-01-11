@@ -11,3 +11,5 @@ Hate Speech Detection and Sentiment Analysis in Tamil Language.
 1. IndicBert
 2. Bert Base Uncased (MaskedLM)
 3. XLM-RoBERTa (Base)
+
+TTF-IDF used as vectorizer for baseline model
